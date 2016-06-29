@@ -245,15 +245,15 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {112693612
+	    sudo_users = {183342278
 },--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : به تو چه
+sodu : محمدکبیر
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -315,10 +315,10 @@ Send text to all groups
 Only sudo users can run this command
 
 !bc [group_id] [text]
-!bc 123456789 Hello !
+!bc 183342278 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: به تو چه
 
 ]],
     help_text = [[
@@ -519,7 +519,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: به توچه
 
 G00D LUCK ^_^
 ]]
