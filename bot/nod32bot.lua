@@ -518,8 +518,11 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
-
+channel: @Narniachannel
+----------
+برای سفارش بات خود به ایدی زیر پیام بدهید
+@Mohammad_jfr
+----------
 G00D LUCK ^_^
 ]]
    }
